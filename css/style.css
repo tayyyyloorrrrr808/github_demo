@@ -1,3 +1,18 @@
-{#cool
-color:purple;
-font-size: 40px}
+body{
+color:#58FAF4;
+font-size: 40px;
+background-color:
+#FE2EF7}
+div{
+	background-color:#FF00BF;
+	height:500px
+	width: 900px;
+	color: purple;
+	margin: 50px;
+}
+
+#circle{
+	border-radius: 500px;
+	background-color: #2EFEF7;
+	color:#8904B1;
+}
